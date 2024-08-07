@@ -1,9 +1,11 @@
+# Hi there 👋 Vansh Srivastava here !!
+<br/>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-# Hi there 👋 Vansh Srivastava here !!
-
+<br/>
 ### Known as Versatile Vansh ⛹️‍♂️💻
 
 <!--
@@ -13,13 +15,14 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Machine Learning
-<!-- 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with Deep learning models
 - 💬 Ask me about travel destinations in budget? I'm passionate about exploring new places !
 - 📫 Reach me at srivastavavansh94@gmail.com 
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fact: Life is too short , no one knows the future . So do good deeds & enjoy to the fullest !! 
 
+<br/>
+<br/>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -31,8 +34,12 @@ Here are some ideas to get you started:-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavavansh94&layout=compact&theme=vision-friendly-dark)](https://github.com/srivastavavansh94/github-readme-stats)
+
+<br/>
 
 ## You can also find me here:
 
