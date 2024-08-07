@@ -1,6 +1,6 @@
 ### Hi there 👋 Vansh Srivastava here !!
 
-# Known as Versatile Vansh ⛹️‍♂️
+# Known as Versatile Vansh ⛹️‍♂️💻
 
 <!--
 **srivastavavansh94/srivastavavansh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
