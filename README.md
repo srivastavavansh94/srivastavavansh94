@@ -16,3 +16,11 @@ Here are some ideas to get you started:-->
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fact: Life is too short , no one knows the future . So do good deeds & enjoy to the fullest !! 
 
+
+
+## You can also find me here:
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vansh-srivastava-002810206/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/srivastavavansh94/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://x.com/Vansh_am_I)
