@@ -6,7 +6,8 @@
 </div>
 
 <br/>
-### Known as Versatile Vansh ⛹️‍♂️💻
+
+## Known as Versatile Vansh ⛹️‍♂️💻
 
 <!--
 **srivastavavansh94/srivastavavansh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +24,7 @@ Here are some ideas to get you started:-->
 
 <br/>
 <br/>
-
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,7 +35,6 @@ Here are some ideas to get you started:-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<br/>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavavansh94&layout=compact&theme=vision-friendly-dark)](https://github.com/srivastavavansh94/github-readme-stats)
