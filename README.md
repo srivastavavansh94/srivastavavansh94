@@ -14,9 +14,10 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Machine Learning
-- 🤔 I’m looking for help with Deep learning models
+- 🔭 I’m currently exploring the field of LLMs
+- 🌱 Build a strong foundational knowledge of Machine Learning and Deep Learning
+- 💻 Have also explored the field of Front End Technologies
+- 🤔 Looking out for freelance projects
 - 💬 Ask me about travel destinations in budget? I'm passionate about exploring new places !
 - 📫 Reach me at srivastavavansh94@gmail.com 
 <!-- 😄 Pronouns: ... -->
